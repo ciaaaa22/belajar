@@ -8,14 +8,7 @@
             font-family: sans-serif;
         }
 
-        header {
-            background-color: rgb(34, 92, 147);
-            padding: 30px;
-            color: white;
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-        }
+      
 
         header h1 {
             font-family: Algerian;
